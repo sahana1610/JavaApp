@@ -1,0 +1,12 @@
+DEBUG   2020-01-01 15:39:23,965 [AWT-EventQueue-0] AddUser  - Name   : aaa
+Email  : aaa@gmail.com
+Mobile : 142145121
+City   : aaa
+User-status : Active
+
+INFO    2020-01-01 15:39:23,968 [AWT-EventQueue-0] AddUser  - Name   : aaa
+Email  : aaa@gmail.com
+Mobile : 142145121
+City   : aaa
+User-status : Active
+
